@@ -1,6 +1,6 @@
 # Solve With Code: Generate Cards
 
-I hate to do repetitive tasks, and I help people to avoid them.
+I hate to do repetitive tasks and I like to help people to avoid them.
 
 On my SWC (Solve with Code) repositories will be some really simple scripts that I've coded to avoid people wasting a lot of time.
 
